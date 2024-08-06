@@ -9,7 +9,7 @@ For more pictures, see: https://photos.app.goo.gl/Rahk7zdu8heuZMXZ9
 
 Recommend printing case parts in ASA (to resist the hardware's high temps).  PLA or PETG should be avoided and will melt and/or distort.
 
-To assemble ASA parts, prepare a mix of acetone and ASA printing scraps to make a glue.
+To assemble ASA parts, prepare a mix of acetone and ASA scraps to make a glue.
 
 You will also need:
 * 20 x 5x2mm neodynium magnets (for the fan cover)
@@ -18,6 +18,7 @@ You will also need:
 * 4 x 8mm M3 bolts (for fan)
 * 1 x Noctua 120x25mm PWM fan (or compatible alternative)
 * 1 x Noctua NA-FC1 PWM fan controller (or compatible alternative)
+* 2 x 120x120mm pvc fan grille (or suitable alternative)
 
 ## NVME Mounting Bracket
 
